@@ -1,0 +1,6 @@
+Django>=1.4,<1.4.99
+South==0.7.5
+psycopg2==2.4.5
+docutils==0.9.1
+fabric==1.4
+django-extensions
